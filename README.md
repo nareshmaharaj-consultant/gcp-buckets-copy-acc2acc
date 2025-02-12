@@ -19,7 +19,7 @@ In the destination project I called it `DestinationBucketProject`
 
 ![img_1.png](img_1.png)
 
-## Step 1: Create a Source Bucket in Account(1)
+## Step 1: Create a Source Bucket in Account#1
 
 1. Navigate to **Cloud Storage** > **Buckets** in the source account (`SourceBucketProject`).
 2. Click **Create** to create a new bucket. Name it `my-src-bucket-001`.
